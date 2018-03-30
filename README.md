@@ -57,7 +57,7 @@ luci-app-cpulimit  cpu限制使用率
 
 20161104 添加 a-mplayer-9331 luci-app-autoap-ramips-1.3.0 luci-app-autoap-ar71xx-1.3.0
 
-
+20180330 添加 酸酸乳 源码 openwrt-ssr-master
 
 
 
