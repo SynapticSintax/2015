@@ -59,7 +59,7 @@ luci-app-cpulimit  cpu限制使用率
 
 20180330 添加 酸酸乳 源码 openwrt-ssr-master
 
-20180402 添加 luci-app-frpc 源码和ipk
+20180402 添加 luci-app-frpc 源码和ipk   http://www.right.com.cn/forum/forum.php?mod=viewthread&tid=306836&highlight=frp
 
 
 
